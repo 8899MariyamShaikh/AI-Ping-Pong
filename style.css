@@ -1,0 +1,53 @@
+.heading
+{
+    width: 100%;
+    text-align: left;
+}
+
+.heading h3
+{
+    display: inline;
+}
+
+.modal-dialog
+{
+    width: 70%;
+}
+
+modal-body
+{
+    text-align: right;
+    font-size: 20px;
+}
+
+#start, #restart, #status
+{
+    font-size: 22px;
+}
+
+canvas
+{
+    border: 3px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px white;
+}
+
+h4
+{
+    background-color: grey;
+    color: white;
+    line-height: 2;
+}
+
+.footer
+{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+
+body
+{
+    text-align: center;
+}
